@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @charlotte-drakard
+- 👀 I’m interested in coding, comp sci, books, music & history !
+- 🌱 I’m currently learning computer networking, HTML, CSS, JavaScript, Algorithms & Data Structures !
+- 📫 How to reach me: github; instagram - charlotte.drakard; email - charlotte.drakard@outlook.com
